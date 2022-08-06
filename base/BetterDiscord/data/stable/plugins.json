@@ -1,0 +1,16 @@
+{
+    "ZeresPluginLibrary": true,
+    "XenoLib": true,
+    "ImageUtilities": true,
+    "InvisibleTyping": true,
+    "MessageLoggerV2": true,
+    "BDFDB": true,
+    "CallTimeCounter": true,
+    "SpotifyControls": true,
+    "GameActivityToggle": true,
+    "BetterVolume": true,
+    "AppNotifications": false,
+    "DoubleClickToEdit": true,
+    "NotificationSounds": true,
+    "QuickMention": true
+}
