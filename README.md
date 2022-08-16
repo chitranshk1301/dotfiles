@@ -2,8 +2,8 @@
 Dotfiles are configuration files for various programs, and they help those programs manage their functionality.
 
 <p align="center">
- <img  src="https://visitor-badge.glitch.me/badge?page_id=vedant-204/dotfiles_stow.visitor-badge" >  
- <img  alt="" src="https://img.shields.io/github/repo-size/vedant-204/dotfiles_stow?style=flat&label=repo-size&color=fb9199&labelColor=1d212a"/>
+ <img  src="https://visitor-badge.glitch.me/badge?page_id=chitranshk1301/dotfiles.visitor-badge" >  
+ <img  alt="" src="https://img.shields.io/github/repo-size/chitranshk1301/dotfiles?style=flat&label=repo-size&color=fb9199&labelColor=1d212a"/>
 </p>
 
 `Desktop(Gruvbox theme):`
