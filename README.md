@@ -16,9 +16,13 @@ Dotfiles are configuration files for various programs, and they help those progr
 
 ## Installation
 Clone the repository into your `$HOME` directory
-	```
-		git clone https://github.com/chitranshk1301/dotfiles
-	```
+
+
+```
+git clone https://github.com/chitranshk1301/dotfiles 
+```
 
 Run `stow` to symlink everything or just select what you want
-	```cd dotstow/base/ && stow */  -t```
+```
+cd dotstow/base/ && stow */  -t
+```
