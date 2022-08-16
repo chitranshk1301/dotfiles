@@ -1,6 +1,16 @@
 # ARCH Linux configuration files
 Dotfiles are configuration files for various programs, and they help those programs manage their functionality.
 
+`Desktop(Gruvbox theme):`
+![desktop](https://github.com/chitranshk1301/Ignore-this/blob/main/desktop.png?raw=true)
+
+`Neofetch:`
+![Neofetch](https://github.com/chitranshk1301/Ignore-this/blob/main/neofetch.png?raw=true)
+
+`System Info:`
+![bpytop](https://github.com/chitranshk1301/Ignore-this/blob/main/bpytop.png?raw=true)
+
+
 ## Setup
 - OS: [Arch linux](https://archlinux.org/)
 - WM: [bspwm](https://github.com/baskerville/bspwm)
