@@ -1,6 +1,11 @@
 # ARCH Linux configuration files
 Dotfiles are configuration files for various programs, and they help those programs manage their functionality.
 
+<p align="center">
+ <img  src="https://visitor-badge.glitch.me/badge?page_id=vedant-204/dotfiles_stow.visitor-badge" >  
+ <img  alt="" src="https://img.shields.io/github/repo-size/vedant-204/dotfiles_stow?style=flat&label=repo-size&color=fb9199&labelColor=1d212a"/>
+</p>
+
 `Desktop(Gruvbox theme):`
 ![desktop](https://github.com/chitranshk1301/Ignore-this/blob/main/desktop.png?raw=true)
 [This Wallpaper](https://github.com/chitranshk1301/dotfiles/blob/main/wallpaper/wallpaper_final.jpg?raw=true)
