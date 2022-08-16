@@ -2,7 +2,7 @@
 Dotfiles are configuration files for various programs, and they help those programs manage their functionality.
 
 `Desktop(Gruvbox theme):`
-![desktop](https://github.com/chitranshk1301/Ignore-this/blob/main/desktop.png?raw=true {width=40px height=400px})
+![desktop](https://github.com/chitranshk1301/Ignore-this/blob/main/desktop.png?raw=true)
 
 `Neofetch:`
 ![Neofetch](https://github.com/chitranshk1301/Ignore-this/blob/main/neofetch.png?raw=true)
