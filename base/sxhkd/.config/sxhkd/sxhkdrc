@@ -156,6 +156,20 @@ super + shift + g
 super + d
 	$HOME/.config/eww/dashboard/launch_dashboard
 
+#volume
+XF86AudioLowerVolume
+	amixer set Master 5%-
+XF86AudioRaiseVolume
+	amixer set Master 5%+
+XF86AudioMute
+	amixer set Master toggle
+
+# Brightness
+XF86MonBrightnessDown
+	xbacklight -dec 5
+XF86MonBrightnessUp
+	xbacklight -inc 5
+
 # Greenclip 
 alt + c
 	greenclip
