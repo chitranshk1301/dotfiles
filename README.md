@@ -3,6 +3,7 @@ Dotfiles are configuration files for various programs, and they help those progr
 
 `Desktop(Gruvbox theme):`
 ![desktop](https://github.com/chitranshk1301/Ignore-this/blob/main/desktop.png?raw=true)
+[This Wallpaper](https://github.com/chitranshk1301/dotfiles/blob/main/wallpaper/wallpaper_final.jpg?raw=true)
 
 `Neofetch:`
 ![Neofetch](https://github.com/chitranshk1301/Ignore-this/blob/main/neofetch.png?raw=true)
