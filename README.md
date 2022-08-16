@@ -2,7 +2,7 @@
 Dotfiles are configuration files for various programs, and they help those programs manage their functionality.
 
 `Desktop(Gruvbox theme):`
-![desktop](https://github.com/chitranshk1301/Ignore-this/blob/main/desktop.png?raw=true)
+![desktop](https://github.com/chitranshk1301/Ignore-this/blob/main/desktop.png?raw=true {width=40px height=400px})
 
 `Neofetch:`
 ![Neofetch](https://github.com/chitranshk1301/Ignore-this/blob/main/neofetch.png?raw=true)
@@ -36,5 +36,5 @@ Run `stow` to symlink everything or just select what you want
 ```
 cd dotstow/base/ && stow */  -t
 ```
-### Credits
+##### Credits
 Gruvbox theme is inspired by [Kushagra Kaushal](https://github.com/kshgrk/linux_dotfiles)
