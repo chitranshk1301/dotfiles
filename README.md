@@ -15,3 +15,4 @@ Dotfiles are configuration files for various programs, and they help those progr
 - media player: [mpv](https://mpv.io/)
 
 ## Installation
+Clone the repository into your `$HOME` directory
