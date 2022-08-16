@@ -26,3 +26,5 @@ Run `stow` to symlink everything or just select what you want
 ```
 cd dotstow/base/ && stow */  -t
 ```
+### Credits
+Gruvbox theme is inspired by [Kushagra Kaushal](https://github.com/kshgrk/linux_dotfiles)
