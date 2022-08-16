@@ -15,4 +15,8 @@ Dotfiles are configuration files for various programs, and they help those progr
 - media player: [mpv](https://mpv.io/)
 
 ## Installation
-Clone the repository into your `$HOME` directory
+Clone the repository into your `$HOME` directory <br>
+    `git clone https://github.com/chitranshk1301/dotfiles`
+
+Run `stow` to symlink everything or just select what you want<br>
+    `cd dotstow/base/ && stow */  -t`
