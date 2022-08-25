@@ -15,12 +15,18 @@ super + alt + v
 	pavucontrol
 
 #pavu volume +
-super + KP_Add
+XF86AudioRaiseVolume
 	pactl -- set-sink-volume 0 +5%
 
 #pavu volume -
-super + KP_Subtract
+XF86AudioLowerVolume
 	pactl -- set-sink-volume 0 -5%
+
+#pavu mute
+XF86AudioMute
+	pactl set-sink-mute @DEFAULT_SINK@ toggle
+
+
 # emoji command
 super + period
 	rofimoji
@@ -33,7 +39,7 @@ Print
 
 # terminal emulator
 super + Return
-	wmctrl -x -a "tabbed" || tabbed alacritty --embed
+	tabbed -f alacritty --embed
 
 # program launcher
 super + @space
@@ -166,9 +172,9 @@ XF86AudioMute
 
 # Brightness
 XF86MonBrightnessDown
-	xbacklight -dec 5
+	sudo light -U 10
 XF86MonBrightnessUp
-	xbacklight -inc 5
+	sudo light -A 10
 
 # Greenclip 
 alt + c
