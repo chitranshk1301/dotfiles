@@ -179,3 +179,11 @@ XF86MonBrightnessUp
 # Greenclip 
 alt + c
 	greenclip
+
+# Brave
+super + alt + b
+	brave
+
+# calculator
+ctrl + @space
+	calculator
