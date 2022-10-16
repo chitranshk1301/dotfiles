@@ -39,7 +39,7 @@ Print
 
 # terminal emulator
 super + Return
-	tabbed -f alacritty --embed
+	tabbed -c alacritty --embed
 
 # program launcher
 super + @space

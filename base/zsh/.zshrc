@@ -250,8 +250,6 @@ alias sq='sudo mysql -u root'
 alias wall='feh --bg-scale --no-fehbg --random'
 alias code='devour code .'
 alias sz='du -sh ./* | sort -h'
-alias nm='nmtui'
-
 
 spr (){
     cat "$@" \
