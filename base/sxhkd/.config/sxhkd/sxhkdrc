@@ -187,3 +187,7 @@ super + alt + b
 # calculator
 ctrl + @space
 	calculator
+
+#lockscreen
+ctrl + alt + @space
+	lockscreen
