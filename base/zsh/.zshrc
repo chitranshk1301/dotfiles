@@ -1,5 +1,4 @@
-# Created by newuser for 5.8
-# If you come from bash you might have to change your $PATH.
+
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 #export JAVA_HOME="$HOME/Desktop/android-studio/jre/"
@@ -202,6 +201,8 @@ alias la='(exa -ahl --color=always --group-directories-first) | bat ' # my prefe
 alias lr='(exa -aR --color=always --group-directories-first) |bat '  # all files and dirs
 alias l='(exa -a --color=always --group-directories-first) |bat '  # all files and dirs
 alias ld='(exa -l --color=always --group-directories-first) | bat'  # long format
+alias sleep='(sudo systemctl sleep)' #sleep
+
 
 # Common use aliases
 alias aup="pamac upgrade --aur"
@@ -248,7 +249,6 @@ alias nv='nvim'
 alias ryzenadj='sudo ryzenadj'
 alias sq='sudo mysql -u root'
 alias wall='feh --bg-scale --no-fehbg --random'
-alias code='devour code .'
 alias sz='du -sh ./* | sort -h'
 
 spr (){
