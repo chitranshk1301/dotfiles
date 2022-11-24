@@ -38,6 +38,7 @@ foreground = ${colors.foreground}
 padding=0
 font-0=Iosevka Nerd Font:size=11;3
 font-1=IPAGothic:size=12:antialias=true;3
+font-2 = JetBrainsMono Nerd Font Mono:size=11;4
 
 dpi = 100
 
@@ -291,65 +292,52 @@ hook-1 = python3 ~/.config/polybar/scripts/spotify/spotify_status.py
 initial = 2
 click-left = bspwm-msg '[class="Spotify"] focus'
 
-
 [module/battery]
 type = internal/battery
-full-at = 100
-time-format = %H:%M
 battery = BAT1
-adapter = ADP0
-format-charging = <animation-charging> <label-charging>
-;label-charging = %percentage%% (%time%)
+adapter = ACAD
+full-at = 99
+
+format-charging = <animation-charging><label-charging>
 label-charging = %percentage%%
-format-discharging = <ramp-capacity> <label-discharging>
-;label-discharging = %percentage%% (%time%)
+format-charging-padding = 1
+
+format-discharging = <ramp-capacity><label-discharging>
 label-discharging = %percentage%%
-format-full = <label-full>
-;label-charging-underline = ${colors.tertiary}
-;label-discharging-underline = ${colors.tertiary}
+format-discharging-foreground = ${colors.foreground}
+format-discharging-padding = 1
 
+format-full-prefix = " "
+format-full-prefix-foreground = ${colors.foreground}
+format-foreground = ${colors.foreground}
 
-format-charging-underline = ${colors.foreground}
-format-discharging-underline = ${colors.foreground}
-format-full-prefix = " "
-ramp-capacity-0 = 
-ramp-capacity-1 = 
-ramp-capacity-2 = 
-ramp-capacity-3 = 
-ramp-capacity-4 = 
+label-full-foreground = ${colors.foreground}
 
-ramp-capacity-0-foreground = ${colors.foreground}
-ramp-capacity-foreground   = ${colors.foreground}
-bar-capacity-width = 10
+label-discharging-foreground = ${colors.foreground}
+label-charging-foreground = ${colors.foreground}
 
-animation-charging-0 = ""
-animation-charging-1 = ""
-animation-charging-2 = ""
-animation-charging-3 = ""
-animation-charging-4 = ""
+ramp-capacity-foreground = ${colors.foreground}
+ramp-capacity-0 = " "
+ramp-capacity-1 = " "
+ramp-capacity-2 = " "
+ramp-capacity-3 = " "
+ramp-capacity-4 = " "
+ramp-capacity-5 = " "
+ramp-capacity-6 = " "
+ramp-capacity-7 = " "
+ramp-capacity-8 = " "
+ramp-capacity-9 = " "
+ramp-capacity-10 = " "
 
-animation-charging-framerate = 750
-
-label-font = 1
-
-; ramp-capacity-0-underline = ${colors.tertiary}
-; ramp-capacity-1-underline = ${colors.tertiary}
-; ramp-capacity-2-underline = ${colors.tertiary}
-; ramp-capacity-3-underline = ${colors.tertiary}
-; ramp-capacity-4-underline = ${colors.tertiary}
-;
-; animation-charging-0-underline = ${colors.tertiary}
-; animation-charging-1-underline = ${colors.tertiary}
-; animation-charging-2-underline = ${colors.tertiary}
-; animation-charging-3-underline = ${colors.tertiary}
-; animation-charging-4-underline = ${colors.tertiary}
-
-;Uncomment these for anmated discharging battery underline
-ramp-capacity-0-underline = ${colors.primary}
-ramp-capacity-1-underline = ${colors.primary}
-ramp-capacity-2-underline = ${colors.tertiary}
-ramp-capacity-3-underline = ${colors.tertiary}
-ramp-capacity-4-underline = ${colors.tertiary}
+animation-charging-0 = " " 
+animation-charging-1 = " " 
+animation-charging-2 = " " 
+animation-charging-3 = " " 
+animation-charging-4 = " "
+animation-charging-5 = " "
+animation-charging-6 = " "
+animation-charging-foreground = ${colors.foreground}
+animation-charging-framerate = 910 
 
 
 [settings]
