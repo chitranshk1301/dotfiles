@@ -180,6 +180,12 @@ XF86MonBrightnessUp
 alt + c
 	greenclip
 
+# clipboard
+super + v
+	rofi -modi "clipboard:greenclip print" -show clipboard -run-command '{cmd}'
+
+
+
 # Brave
 super + alt + b
 	brave

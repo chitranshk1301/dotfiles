@@ -27,5 +27,5 @@ xset r rate 230 30
 xgamma -gamma 0.85
 
 ### Greenclip ###
-greenclip daemon
+greenclip daemon &
 
