@@ -29,3 +29,6 @@ xgamma -gamma 0.85
 ### Greenclip ###
 greenclip daemon &
 
+### conky ###
+pkill -9 conky
+conky -c $HOME/.config/conky/Mimosa-Dark/Mimosa.conf &> /dev/null &
