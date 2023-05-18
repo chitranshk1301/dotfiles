@@ -6,9 +6,8 @@ Dotfiles are configuration files for various programs, and they help those progr
  <img  alt="" src="https://img.shields.io/github/repo-size/chitranshk1301/dotfiles?style=flat&label=repo-size&color=fb9199&labelColor=1d212a"/>
 </p>
 
-`Desktop(Gruvbox theme):`
-![desktop](https://github.com/chitranshk1301/Ignore-this/blob/main/desktop.png?raw=true)
-[This Wallpaper](https://github.com/chitranshk1301/dotfiles/blob/main/wallpaper/wallpaper_final.jpg?raw=true)
+`Desktop(Neon theme):`
+![desktop]([https://github.com/chitranshk1301/Ignore-this/blob/main/desktop.png?raw=true](https://github.com/chitranshk1301/dotfiles/blob/main/wallpaper/walllatest.jpg))
 
 `Neofetch:`
 ![Neofetch](https://github.com/chitranshk1301/Ignore-this/blob/main/neofetch.png?raw=true)
