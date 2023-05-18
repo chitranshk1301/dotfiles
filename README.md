@@ -7,7 +7,7 @@ Dotfiles are configuration files for various programs, and they help those progr
 </p>
 
 `Desktop(Neon theme):`
-![desktop]([https://github.com/chitranshk1301/dotfiles/blob/main/wallpaper/walllatest.jpg?raw=true](https://i.imgur.com/lJ0i8HF.jpg))
+![desktop](https://i.imgur.com/lJ0i8HF.jpg)
 
 `Neofetch:`
 ![Neofetch]([https://github.com/chitranshk1301/Ignore-this/blob/main/neofetch.png](https://github.com/chitranshk1301/dotfiles/blob/main/wallpaper/Screenshot_20230519_005213.png)?raw=true)
